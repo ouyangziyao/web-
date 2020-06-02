@@ -1,0 +1,4 @@
+开发软件：eclipse
+6月1日：选择题目6，写好了login页面的简单样式（发现submit text3和eclipse的css样式使用不一样）
+6月2日：写了main页面（菜单栏），简单弄清了jsp页面连接MySQL，进行查询操作
+，正在弄清插入操作，并在思考要实现学生成绩管理的一个功能要使用几个jsp页面合适，正在思考能否使用Javabean和servlet，和怎么样使用。
